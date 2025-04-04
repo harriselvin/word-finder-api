@@ -158,5 +158,6 @@
 		"screenplay": "Written script",
 		"extra": "Background actor",
 		"cliffhanger": "Tense unresolved ending"
-	}
+	},
+	"leaderboard": {}
 }
