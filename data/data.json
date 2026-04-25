@@ -1,5 +1,5 @@
 {
-	"general": {
+	"General": {
 		"aroma": "A pleasing smell",
 		"pepper": "Salt's partner",
 		"halt": "put a stop to",
@@ -28,7 +28,7 @@
 		"breeze": "Gentle wind",
 		"creek": "Small stream"
 	},
-	"biblical": {
+	"Biblical": {
 		"genesis": "Beginning",
 		"exodus": "Going out",
 		"leviticus": "Relating to the Levites",
@@ -71,7 +71,7 @@
 		"joseph": "Dream interpreter",
 		"miriam": "Sister of Moses"
 	},
-	"science": {
+	"Science": {
 		"carbon": "Element",
 		"oxygen": "Gas",
 		"uranium": "Radioactive element",
@@ -96,7 +96,7 @@
 		"osmosis": "Water movement in cells",
 		"vaccine": "Disease prevention shot"
 	},
-	"sports": {
+	"Sports": {
 		"basketball": "Team sport with hoop",
 		"soccer": "Team sport where you kick a ball around",
 		"tennis": "Racket sport",
@@ -125,7 +125,7 @@
 		"helm": "Leader in a team",
 		"parry": "Fencing block"
 	},
-	"movies": {
+	"Movies": {
 		"starwars": "Space fantasy series",
 		"thehobbit": "Fantasy adventure series",
 		"thelordoftherings": "Fantasy adventure series",
